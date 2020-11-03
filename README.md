@@ -3,7 +3,7 @@
 <hr></hr>
 I am Similoluwa Okunowo, I stumbled upon coding in 2018 and I think it's fun. I work majorly with web technologies, Machine learning, and Mathematical modelling. I am very reserved and I love learning new stuff. I am currently in my penultimate year at Obafemi Awolowo University, Ile-ife. I am reading Electronic and Electrical Engineering. 
 
-
+## About
 - 🔭 I’m currently working on improving my Life, and learning better Software Engineering practices to build amazing stuff.
 - 🌱 I’m currently learning Machine learning, Backend web technologies, Discrete mathematics.
 - 👯 I’m looking to collaborate on building great software.
