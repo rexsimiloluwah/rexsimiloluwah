@@ -7,9 +7,10 @@ I am Similoluwa Okunowo, I am currently 19 years old. I stumbled upon coding in 
 - 🔭 I’m currently working on improving my Life, and learning better Software Engineering practices to build amazing stuff.
 - 🌱 I’m currently learning Machine learning, Backend web technologies, Discrete mathematics.
 - 👯 I’m looking to collaborate on building great software.
-- 💬 Ask me about anything. I don't know it all, but I know where and how to find answers.(I reserve the rights to reserve this statement 😄)
+- 💬 Ask me about anything. I don't know it all, but I know where and how to find answers (I reserve the rights to recant this statement 😄)
 - 😄 Pronouns: He, Him, His.
 - ⚡ Fun fact: I love PEACE and I cherish my solitude.
+- ⚡ Philosophy: Just be yourself, Never compromise your authenticity. 'Problem no dey Finish'.
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
