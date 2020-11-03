@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=rexsimiloluwah&color=green)
 ### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr></hr>
 I am Similoluwa Okunowo, I am currently 19 years old. I stumbled upon coding in 2018 and I think it's fun. I work majorly with web technologies, Machine learning, and Mathematical modelling. I am very reserved and I love learning new stuff. I am currently in my penultimate year at Obafemi Awolowo University, Ile-ife. I am reading Electronic and Electrical Engineering. 
@@ -11,7 +11,7 @@ I am Similoluwa Okunowo, I am currently 19 years old. I stumbled upon coding in 
 - 😄 Pronouns: He, Him, His.
 - ⚡ Fun fact: I love PEACE and I cherish my solitude.
 
-You can find me on n [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
