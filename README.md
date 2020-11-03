@@ -13,6 +13,15 @@ I am Similoluwa Okunowo, I stumbled upon coding in 2018 and I think it's fun. I 
 
 You can find me on n [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rexsimiloluwah/rexsimiloluwah">
