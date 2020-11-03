@@ -1,7 +1,7 @@
 
 ### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr></hr>
-I am Similoluwa Okunowo, I stumbled upon coding in 2018 and I think it's fun. I work majorly with web technologies, Machine learning, and Mathematical modelling. I am very reserved and I love learning new stuff. I am currently in my penultimate year at Obafemi Awolowo University, Ile-ife. I am reading Electronic and Electrical Engineering. 
+I am Similoluwa Okunowo, I am currently 19 years old. I stumbled upon coding in 2018 and I think it's fun. I work majorly with web technologies, Machine learning, and Mathematical modelling. I am very reserved and I love learning new stuff. I am currently in my penultimate year at Obafemi Awolowo University, Ile-ife. I am reading Electronic and Electrical Engineering. 
 
 ### About Similoluwa
 - 🔭 I’m currently working on improving my Life, and learning better Software Engineering practices to build amazing stuff.
