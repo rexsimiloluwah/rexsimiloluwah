@@ -3,7 +3,7 @@
 <hr></hr>
 I am Similoluwa Okunowo, I stumbled upon coding in 2018 and I think it's fun. I work majorly with web technologies, Machine learning, and Mathematical modelling. I am very reserved and I love learning new stuff. I am currently in my penultimate year at Obafemi Awolowo University, Ile-ife. I am reading Electronic and Electrical Engineering. 
 
-## About
+### About Similoluwa
 - 🔭 I’m currently working on improving my Life, and learning better Software Engineering practices to build amazing stuff.
 - 🌱 I’m currently learning Machine learning, Backend web technologies, Discrete mathematics.
 - 👯 I’m looking to collaborate on building great software.
@@ -13,8 +13,14 @@ I am Similoluwa Okunowo, I stumbled upon coding in 2018 and I think it's fun. I 
 
 You can find me on n [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/rexsimiloluwah/rexsimiloluwah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexsimiloluwah&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/rexsimiloluwah/rexsimiloluwah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexsimiloluwah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Similoluwa's GitHub Stats" />
+</a> 
 
 
 <!-- links to social media icons -->
