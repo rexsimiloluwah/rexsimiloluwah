@@ -16,7 +16,7 @@ You can find me on n [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rexsimiloluwah/rexsimiloluwah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexsimiloluwah&hide=jupyternotebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexsimiloluwah&hide=jupyter notebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/rexsimiloluwah/rexsimiloluwah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexsimiloluwah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Similoluwa's GitHub Stats" />
