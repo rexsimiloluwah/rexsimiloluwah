@@ -4,8 +4,8 @@
 I am Similoluwa Okunowo, an Electronic and Electrical Engineering undergraduate. I work majorly with web technologies, Machine learning, Mathematical modelling, Internet of Things and Automation. My primary programming languages are Python, JavaScript, and C/C++.
 
 ### About Similoluwa
-- 🔭 I’m currently searching for something to live/die for, and learning better Software Engineering practices to build amazing stuff.
-- 🌱 I’m currently learning Machine learning, Backend web technologies, Cloud DevOps.
+- 🔭 I’m currently searching for something to live/die for, and learning better Engineering practices to build amazing stuff.
+- 🌱 I’m currently learning Machine learning, Backend web technologies, Cloud DevOps, Embedded Systems, IoT.
 - 👯 I’m looking to collaborate on building great software.
 - 💬 Ask me about anything. I don't know it all, but I know where and how to find answers (I reserve the rights to recant this statement 😄)
 - 😄 Pronouns: He, Him, His.
