@@ -1,9 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=rexsimiloluwah&color=green)
 ### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr></hr>
-I am Similoluwa Okunowo, an Electronic and Electrical Engineering undergraduate. I work majorly with web technologies, Machine learning, Mathematical modelling, Internet of Things and Automation. My primary programming languages are Python, JavaScript, TypeScript, GoLang, MATLAB, C/C++.
-
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
