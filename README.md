@@ -2,6 +2,8 @@
 ### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr></hr>
 
+I am Similoluwa Okunowo. My interests span across Software Engineering, AI & Machine Learning, and Research. I am open to collaborations and opportunities to build solutions that solve real-world problems.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
